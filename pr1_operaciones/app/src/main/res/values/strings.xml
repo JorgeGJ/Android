@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr1_operaciones</string>
+    <string name="numero1">Numero1</string>
+    <string name="numero2">Numero2</string>
+    <string name="resultado">Resultado</string>
+    <string name="boton1">Suma</string>
+</resources>

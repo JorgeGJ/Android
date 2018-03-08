@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cafe</string>
+    <string name="input">Nombre</string>
+    <string name="c1">Chocolate</string>
+    <string name="c2">Nata</string>
+    <string name="mesno">-</string>
+    <string name="mas">+</string>
+    <string name="enviar">Pedir</string>
+    <string name="cantidad">0</string>
+</resources>

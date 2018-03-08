@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica6</string>
+    <string name="texto">Intrudice texto</string>
+    <string name="boton">enviar</string>
+    <string name="texto1">Texto</string>
+    <string name="texto2" />
+</resources>

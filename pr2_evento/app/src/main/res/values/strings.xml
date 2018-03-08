@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr2_evento</string>
+    <string name="texto1">STATUS</string>
+    <string name="boton1">Presiona</string>
+</resources>

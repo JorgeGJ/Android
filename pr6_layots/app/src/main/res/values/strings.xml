@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pr6_layots</string>
+    <string name="txt1">Uno</string>
+    <string name="txt2">Dos</string>
+    <string name="txt3">Tres</string>
+    <string name="txt4">Cuatro</string>
+    <string name="boton">Ok</string>
+</resources>

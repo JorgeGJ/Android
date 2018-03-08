@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pr5_layouts</string>
+    <string name="comentario1">Nombre</string>
+    <string name="input1" />
+    <string name="input2" />
+    <string name="input3" />
+    <string name="input4" />
+    <string name="label2">Apellido</string>
+    <string name="label3">E-mail</string>
+    <string name="label4">Mensaje</string>
+    <string name="chex">Subscribete</string>
+    <string name="boton1">Confirmar</string>
+    <string name="boton2">Cancelar</string>
+</resources>
